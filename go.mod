@@ -1,4 +1,4 @@
-module github.com/filguard/sector-counter
+module github.com/Cestlaviezzy/sector-counter
 
 go 1.14
 
